@@ -185,7 +185,7 @@ def train_model(train, valid, degree):
     st.markdown("- \( \theta \): Hệ số hồi quy cần học")
     st.markdown("- \( \epsilon \): Nhiễu trong dữ liệu") 
 
-    st.image("E:\Workspace\HocMayVoiPython\Project\linearRegression-app\img\polonomial_Regession.jpg", caption = "Mô hình Polynomail Regression", use_container_width=True)
+    st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Polyreg_scheffe.svg/488px-Polyreg_scheffe.svg.png", caption = "Mô hình Polynomail Regression", use_container_width=True)
 
     st.success("🚀 Polynomial Regression giúp mô hình bắt được xu hướng phi tuyến của dữ liệu!") 
 
